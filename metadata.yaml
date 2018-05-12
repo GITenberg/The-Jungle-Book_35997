@@ -1,0 +1,40 @@
+_repo: The-Jungle-Book_35997
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35997-h/images/cover02.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Indhold: Mowgli''s brothers ; Hunting-song of the seeonee pack ; Kaa''s
+  hunting ; Road-song of the bandar-log ; "Tiger! Tiger!" ; Mowgli''s song ; The white
+  seal ; Lukannon ; "Rikki-tikki-tavi" ; Darzee''s chaunt ; Toomai of the elephants
+  ; Shiv and the grasshopper ; Her Majesty''s servants ; Parade-song of the camp-animals'
+gutenberg_issued: '2011-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jungles -- Fiction'
+- !lcsh 'Mowgli (Fictitious character) -- Fiction'
+- !lcsh 'Jungle animals -- Fiction'
+- !lcsh 'Feral children -- Fiction'
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+- !lcsh 'Adventure stories, English'
+title: The Jungle Book
+url: http://www.gutenberg.org/ebooks/35997
